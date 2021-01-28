@@ -6,4 +6,4 @@ Réaliser en 2020 pour un cours de programmation d'animation.
 
 Technologies utilisées: HTML5, CSS3, javascript, PhaserJS.
 
-URL: lachoppeacafe.netlify.app
+URL: locustesenmetropole.netlify.app
