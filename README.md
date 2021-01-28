@@ -1,6 +1,6 @@
 # JeuLocustes
 
-Refonte fictive du site web de la Choppe À Café, maison de café et de thé dans la ville de Saint-Jérôme. Mobile-first et responsive.
+Petit jeu pour desktop et mobile développé avec la librairie PhaserJS. Le but est de survivre à l'attaque de locustes de la ville de Montréal le plus longtemps possible. 
 
 Réaliser en 2020 pour un cours de programmation d'animation.
 
